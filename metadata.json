@@ -1,0 +1,6 @@
+{
+  "name": "NexaPurge",
+  "description": "Pembersih file sampah dengan sistem trash/pemulihan, pembersihan otomatis berkala, pemantauan kapasitas penyimpanan, dukungan root tingkat pro, & mode gelap minimalis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
